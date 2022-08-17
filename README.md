@@ -10,7 +10,7 @@ You can contact me via:
 [![Gmail Badge](https://img.shields.io/badge/-sagarsinghprj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@rehkloos.com)](mailto:sagarsinghprj@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-ee20b115@smail.iitm.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ee20b115@smail.iitm.ac.in)](mailto:sagarsinghprj@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=sagarSingh1324&color=dc143c)
+![](https://komarev.com/ghpvc/?username=sagarSingh1324&color=14dc50)
 ---
 
 
