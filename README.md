@@ -1,4 +1,4 @@
-### Hello there 👋, I'm ***Sagar Singh***
+### Hello there, I'm ***Sagar Singh***
 
 I am currently doing a Bachelors in **Electrical Engineering** from IIT Madras.
 I am interested in ***SDE*** and ***Web App Dev***. I am learning about the same by creating various projects.
