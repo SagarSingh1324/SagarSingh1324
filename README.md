@@ -14,4 +14,4 @@ You can contact me via:
 
 ![SagarSingh1324' github stats](https://github-readme-stats.vercel.app/api?username=SagarSingh1324&count_private=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarSingh1324)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarSingh1324&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
