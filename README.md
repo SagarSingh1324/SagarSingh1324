@@ -1,7 +1,7 @@
 ### Hello there, I'm ***Sagar Singh***
 
 I am currently doing a Bachelors in **Electrical Engineering** from IIT Madras.
-I am interested in ***Cross Platform Mobile App*** and ***Web App*** developer. I am learning about the same by creating various projects.
+I am interested in ***Cross Platform Mobile App*** and ***Web App*** development. I am learning about the same by creating various projects and host them here.
 
 You can contact me via:
 
