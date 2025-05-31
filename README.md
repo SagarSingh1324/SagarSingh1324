@@ -11,6 +11,6 @@ You can contact me via:
 [![Gmail Badge](https://img.shields.io/badge/-ee20b115@smail.iitm.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ee20b115@smail.iitm.ac.in)](mailto:sagarsinghprj@gmail.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarSingh1324&theme=highcontrast)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarSingh1324&layout=compact&theme=highcontrast)]
 
 
