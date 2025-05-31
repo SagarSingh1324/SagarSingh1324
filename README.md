@@ -12,5 +12,5 @@ You can contact me via:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarSingh1324&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
